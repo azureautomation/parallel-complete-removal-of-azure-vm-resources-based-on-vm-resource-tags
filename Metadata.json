@@ -1,0 +1,20 @@
+{
+    "Author": "Waleed Raslan",
+    "ContentSize": 10587,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/parallel-complete-removal-of-azure-vm-resources-based-on-vm-resource-tags/master/Azure_VM_Resources_Saver-Automation-Workflow.ps1",
+    "DownloadCount": 675,
+    "Id": "Parallel-complete-removal-718d6dd5",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 161,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-4-26T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This solution completely removes Azure VM resources in Azure subscription based on resource tags using PowerShell Workflow technology. Based on removal mode, tagged or untagged VMs are removed and all associated resources: NICs Public IPs Managed/unmanaged OS/Data disks",
+    "Title": "Parallel complete removal of Azure VM resources based on VM resource tags",
+    "UpdatedDate": "2019-4-26T00:00:00",
+    "Url": "https://github.com/azureautomation/parallel-complete-removal-of-azure-vm-resources-based-on-vm-resource-tags",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
